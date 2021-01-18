@@ -1,0 +1,10 @@
+Question 1
+Pay attention to data types.
+
+Question 2
+Where is your function?
+The for loops appear to be a bit off.
+
+Question 3
+Where is your function?
+The final list you print appears to be split which is incorrect.
